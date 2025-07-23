@@ -13,7 +13,7 @@ The Python-based EDA component includes the following:
 - Import and inspect the dataset
 -  Handle **missing values**, **duplicates**, and **outliers**
 - Generate **descriptive statistics**
-- Create insightful **data visualizations** using `matplotlib`, `seaborn`, and `plotly`
+- Create insightful **data visualizations** using `matplotlib`, `seaborn`
 - Identify **key trends**, **patterns**, and **correlations** such as:
   - Sales trends over time
   - Product and category performance
@@ -53,4 +53,4 @@ The Power BI dashboard imports the **cleaned dataset** from the Python step and 
 ### Power BI
 - Slicers for category based trends
 - Sales trends by Charts
--Card
+- Card
