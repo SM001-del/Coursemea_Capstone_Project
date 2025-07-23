@@ -54,5 +54,5 @@ The Power BI dashboard imports the **cleaned dataset** from the Python step and 
 - Slicers for category based trends
 - Sales trends by Charts
 - Card
-![Alt text](<img width="550" height="313" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/58645a6e-53cc-4330-b678-ca0476a85111" />
-)
+- <img width="550" height="313" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/b1a3b869-64aa-44fd-b905-dcb3a93d3ea0" />
+
