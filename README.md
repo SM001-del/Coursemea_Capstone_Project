@@ -35,15 +35,12 @@ The Python-based EDA component includes the following:
 The Power BI dashboard imports the **cleaned dataset** from the Python step and includes the following components:
 
 #Key Performance Indicators (KPIs) such as:
-  - Total Sales
-  - Total Profit
   - Quantity Sold
+  - Total_profit
 - **Time-based Sales Trends**
 - **Product and Category Performance**
-- **Regional Sales Breakdown**
 - **Interactive Filters & Slicers**:
   - By product
-  - By region
   - By time period
 
 ## Tools & Libraries Used
@@ -56,6 +53,6 @@ The Power BI dashboard imports the **cleaned dataset** from the Python step and 
 - `plotly
 
 ### Power BI
-- Slicers
-- Sales trends by Charts 
-
+- Slicers for category based trends
+- Sales trends by Charts
+-Card
