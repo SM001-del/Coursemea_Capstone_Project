@@ -50,8 +50,6 @@ The Power BI dashboard imports the **cleaned dataset** from the Python step and 
 - `numpy`
 - `matplotlib`
 - `seaborn`
-- `plotly
-
 ### Power BI
 - Slicers for category based trends
 - Sales trends by Charts
